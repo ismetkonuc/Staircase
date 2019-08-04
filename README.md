@@ -1,2 +1,1 @@
-# Staircase
-Hackerrank "Staircase" solution with Java
+Hackerrank solutions with Java
